@@ -37,15 +37,7 @@ saved and how many impulse buys you avoided.
 ## Privacy at a glance
 
 - All wishlist data stays **on your device** — nothing is synced to a server.
-- Optional, anonymous analytics help improve the app (PostHog).
-- Optional crash reporting helps fix bugs (Sentry).
 - No ads. No advertising identifiers. No data sold.
-
-Full details: [Privacy Policy](PRIVACY_POLICY.md)
-
-## Terms
-
-[Terms of Service](TERMS_OF_SERVICE.md)
 
 ## Technical
 
