@@ -41,17 +41,16 @@ saved and how many impulse buys you avoided.
 - Optional crash reporting helps fix bugs (Sentry).
 - No ads. No advertising identifiers. No data sold.
 
-Full details: [Privacy Policy](privacy-policy.md)
+Full details: [Privacy Policy](PRIVACY_POLICY.md)
 
 ## Terms
 
-[Terms of Service](terms-of-service.md)
+[Terms of Service](TERMS_OF_SERVICE.md)
 
 ## Technical
 
 | Property          | Value                        |
 |-------------------|------------------------------|
-| Bundle ID         | com.egyadhitama.antiimpulse  |
 | App Store ID      | 6758630408                   |
 | Framework         | React Native / Expo          |
 | Min iOS version   | 16.0                         |
